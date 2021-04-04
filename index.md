@@ -11,6 +11,10 @@ Python, because of how easy it is to manipulate tons of data especially in the r
 
 Favorite webpage: [Youtube](https://www.youtube.com), [Youtube's Logo](./Youtube%20Logo.jpg)
 
+My name section link:
+[My name](https://github.com/tsl001/CSE-110-Lab-Week-1/blob/fav-programming-language/index.md#tony-liu)
+
+---
 My idols:
 - Elon Musk
 - Nikola Tesla
