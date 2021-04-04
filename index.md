@@ -14,20 +14,19 @@ Favorite webpage: [Youtube](https://www.youtube.com), [Youtube's Logo](./Youtube
 My name section link:
 [My name](https://github.com/tsl001/CSE-110-Lab-Week-1/blob/fav-programming-language/index.md#tony-liu)
 
----
-My idols:
+#### My idols:
 - Elon Musk
 - Nikola Tesla
 - Bill Gates
 - Albert Einstein
 
-Favorite Video games series from first to last ranking:
+#### Favorite Video games series from first to last ranking:
 1. The Last of Us Series
 2. Hitman Series
 3. Super Smash Bros Series
 4. Mario Party Series
 
-Favorite Classes I've taken and classes I look forward to taking (checked means I've taken and unchecked means I'm looking forward to take):
+#### Favorite Classes I've taken and classes I look forward to taking (checked means I've taken and unchecked means I'm looking forward to take):
 
 - [x] CSE 151A
 - [x] CSE 100
