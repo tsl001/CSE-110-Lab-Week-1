@@ -1,6 +1,14 @@
 # Tony Liu
 **Major: Computer Engineer**
 
+_Year: 3rd_
+
+~~Favorite President: Donald Trump~~
+
+**Place I want to go to for a vacation: _Hawaii_**
+
+***What I value most: health***
+
 Favorite Hobby:
 >Cooking
 
