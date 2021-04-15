@@ -1,7 +1,7 @@
 # Tony Liu
 **Major: Computer Engineer**
 
-_Year: 3rd_
+_Quote: Hello_
 
 ~~Favorite President: Donald Trump~~
 
